@@ -94,7 +94,7 @@ export default function Home() {
                 href="#development"
                 className="inline-flex items-center justify-center gap-2 rounded-full border border-slate-200 bg-white/80 px-6 py-3 text-sm font-semibold text-ink shadow-sm transition hover:-translate-y-0.5 hover:border-slate-300 hover:bg-white focus:outline-none focus:ring-2 focus:ring-brand-blue/30"
               >
-                Coming Soon
+                Google Play Testing
                 <ArrowRight className="size-4" aria-hidden="true" />
               </Link>
             </div>
@@ -154,16 +154,17 @@ export default function Home() {
                 </div>
                 <div>
                   <h2 className="text-2xl font-semibold tracking-tight text-ink">
-                    Currently in Development
+                    InVault is in Google Play Testing
                   </h2>
                   <p className="mt-3 text-lg leading-8 text-muted">
-                    Our first collection of Android applications is currently being prepared.
-                    We look forward to sharing them soon.
+                    Amaru Tech Labs develops Android utility applications. InVault,
+                    our private media utility, is currently available through
+                    Google Play testing as we prepare it for wider release.
                   </p>
                 </div>
               </div>
               <span className="inline-flex w-fit rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-semibold text-slate-700">
-                Coming soon
+                Google Play testing
               </span>
             </div>
           </div>
